@@ -20,7 +20,10 @@ These skills help AI agents:
 
   
  📦 Available Skills
- piece-of-cake
+
+ 
+piece-of-cake
+
 Enforces planning-first workflow with specification files for features and bugfixes.
 **Key Principles:**
 - ✅ Planning before coding
