@@ -25,7 +25,9 @@ These skills help AI agents:
 piece-of-cake
 
 Enforces planning-first workflow with specification files for features and bugfixes.
+
 **Key Principles:**
+
 - ✅ Planning before coding
 - ✅ Simplicity over complexity
 - ✅ Consultation when unsure
